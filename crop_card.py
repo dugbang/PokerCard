@@ -31,12 +31,12 @@ def each_card_save():
         for i in range(12):
             area = get_card_area(i, j)
             im2 = im.crop(area)
-            im2.save(f"{IMAGE_PATH}{k}{i+2}.png")
-            print(f"{k}{i+2} > {area}")
+            im2.save(f"{IMAGE_PATH}{k}{i+2:02}.png")
+            print(f"{k}{i+2:02} > {area}")
         area = get_card_area(12, j)
         im2 = im.crop(area)
-        im2.save(f"{IMAGE_PATH}{k}1.png")
-        print(f"{k}1 > {area}")
+        im2.save(f"{IMAGE_PATH}{k}01.png")
+        print(f"{k}01 > {area}")
 
 
 if __name__ == '__main__':

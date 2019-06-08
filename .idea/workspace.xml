@@ -2,60 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab2dce6-f11f-4e1a-9c3e-a3314758c401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/make_img_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crop_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/crop_card.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/C9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/D9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/H9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png/S9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S9.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,25 +52,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="496">
-                <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="455">
+                <caret line="44" selection-start-line="44" selection-end-line="44" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crop_card.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="379">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/make_img_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,14 +115,8 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tests/test_crop_card.py" />
         <option value="$PROJECT_DIR$/crop_card.py" />
+        <option value="$PROJECT_DIR$/make_img_data.py" />
         <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -132,7 +125,9 @@
     <option name="width" value="1608" />
     <option name="height" value="995" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -180,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crop_card">
+  <component name="RunManager" selected="Python.make_img_data">
     <configuration name="crop_card" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PokerCard" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,6 +189,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crop_card.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_img_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_img_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,27 +260,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_crop_card.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="PokerCard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_crop_card.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.make_img_data" />
         <item itemvalue="Python.crop_card" />
         <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic" />
         <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic.test_pos_1_0" />
         <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic.test_pos_0_0" />
-        <item itemvalue="Python tests.Unittests in test_crop_card.py" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559822990355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="* mnist 학습">
+      <created>1559981105458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559981105458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -323,20 +332,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2158" y="0" width="1608" height="995" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329849" />
       <window_info anchor="bottom" id="Python Console" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.27293843" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.271777" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21370499" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21370499" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,19 +355,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="최초작성" />
+    <MESSAGE value="* mnist 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="* mnist 학습" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="496">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_crop_card.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -365,13 +366,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/image_edit.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/crop_card.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="379">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_img_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="455">
+            <caret line="44" selection-start-line="44" selection-end-line="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

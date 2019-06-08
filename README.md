@@ -43,8 +43,6 @@
     * [이미지 처리 기초](https://datascienceschool.net/view-notebook/9af8d8e93c084bc49f0ac2bb8a20e2a4/)
         * 다양한 이미지 처리 라이브러리 설명
 
-1. [[Keras] MNIST 데이터 셋을 이용한 필기 글씨에 대한 CNN Tutorial](https://pinkwink.kr/1121?category=580892)
-
 1. [파이썬 라이브러리를 활용한 머신러닝](http://www.yes24.com/Product/Goods/42806875)
     - [예제 샘플 코드](https://github.com/rickiepark/introduction_to_ml_with_python)    
 1. [케라스 창시자에게 배우는 딥러닝](http://www.yes24.com/Product/goods/65050162)
