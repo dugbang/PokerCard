@@ -16,7 +16,7 @@ start_y = 50
 
 def get_card_area(x, y):
     sx = int(start_x + card_width * x + (gap * (x + 1)))
-    sy = int(start_y + card_high * y + (gap * (y + 1)))
+    sy = int(start_y + card_high * y + (gap * (y + 1.7)))
 
     ex = sx + card_width
     ey = sy + card_high

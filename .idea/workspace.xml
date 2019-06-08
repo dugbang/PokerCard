@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fab2dce6-f11f-4e1a-9c3e-a3314758c401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/crop_card.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/C9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/C9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/D9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/D9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/H9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/H9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S10.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S11.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S12.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S13.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S2.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S3.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S4.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S5.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S6.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S7.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S8.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/S9.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/S9.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="496">
+                <caret line="16" selection-start-line="16" selection-end-line="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crop_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_crop_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/tests/test_crop_card.py" />
+        <option value="$PROJECT_DIR$/crop_card.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2158" />
+    <option name="width" value="1608" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PokerCard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerCard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerCard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerCard" type="462c0819:PsiDirectoryNode" />
+              <item name="notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerCard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerCard" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.crop_card">
+    <configuration name="crop_card" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crop_card.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crop_card.TestGraphic" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crop_card.TestGraphic&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crop_card.TestGraphic.test_pos_0_0" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crop_card.TestGraphic.test_pos_0_0&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crop_card.TestGraphic.test_pos_1_0" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crop_card.TestGraphic.test_pos_1_0&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_crop_card.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PokerCard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_crop_card.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crop_card" />
+        <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic" />
+        <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic.test_pos_1_0" />
+        <item itemvalue="Python tests.Unittests for test_crop_card.TestGraphic.test_pos_0_0" />
+        <item itemvalue="Python tests.Unittests in test_crop_card.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fab2dce6-f11f-4e1a-9c3e-a3314758c401" name="Default Changelist" comment="" />
+      <created>1559797392385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559797392385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="최초작성">
+      <created>1559822990355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559822990355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 32m 51s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 33m 16s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 33m 52s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 35m 19s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 35m 27s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 35m 52s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 36m 55s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 37m 24s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 38m 50s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_crop_card_TestGraphic - 2019.06.06 at 20h 39m 02s.xml">
+      <configuration name="Unittests for test_crop_card.TestGraphic" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2158" y="0" width="1608" height="995" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127389" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.27293843" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21370499" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="최초작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="최초작성" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="496">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_crop_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crop_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
