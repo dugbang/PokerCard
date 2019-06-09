@@ -1,9 +1,10 @@
 import pickle
 from datetime import datetime
 import timeit
-from PIL import Image
-import numpy as np
+from random import randint
 
+from PIL import Image, ImageOps
+import numpy as np
 
 IMAGE_PATH = './png/'
 BASE_IMG = 'poker_card.png'
@@ -20,38 +21,55 @@ def get_label():
     return label
 
 
-def save_train_data():
+def get_gray_image(l):
+    im = Image.open(f"{IMAGE_PATH}{l}")
+    im2 = im.crop((6, 6, 36, 66)).convert('L')
+    return ImageOps.invert(im2)
+
+
+def get_test_rotation_deg():
+    ret = list()
+    for _ in range(round(len(ROTATION_DEG)*0.3)):
+        ret.append(randint(ROTATION_DEG[0], ROTATION_DEG[-1]))
+    return ret
+
+
+def save_image_data(type_='train'):
+    if type_ == 'train':
+        deg = ROTATION_DEG
+    elif type_ == 'test':
+        deg = get_test_rotation_deg()
+    else:
+        raise Exception(f"type error(train, test); {type_}")
+
     img_data = list()
     for i, l in enumerate(get_label()):
-        im2 = get_gray_image(l)
-        for d in ROTATION_DEG:
-            img_data.append(((np.array(im2.rotate(d, fillcolor='white'))), i))
-            img_data.append(((np.array(im2.rotate(d, fillcolor='gray'))), i))
-            if d != 0:
-                img_data.append(((np.array(im2.rotate(d, fillcolor='black'))), i))
         print(i, l)
-    with open('./png/train.pickle', 'wb') as f:
+        im2 = get_gray_image(l)
+        for d in deg:
+            img_data.append(((np.array(im2.rotate(d, fillcolor='white'))), i))
+            if d != 0:
+                img_data.append(((np.array(im2.rotate(d, fillcolor='gray'))), i))
+                img_data.append(((np.array(im2.rotate(d, fillcolor='black'))), i))
+    with open(f"./{type_}.pickle", 'wb') as f:
         pickle.dump(img_data, f, pickle.HIGHEST_PROTOCOL)
 
 
-def get_gray_image(l):
-    im = Image.open(f"{IMAGE_PATH}{l}")
-    return im.crop((6, 6, 36, 66)).convert('L')
+def load_image_data(type_='train'):
+    if type_ not in ('train', 'test'):
+        raise Exception(f"type error(train, test); {type_}")
 
-
-def load_taine_data():
-    with open('./png/train.pickle', 'rb') as f:
-        data = pickle.load(f)
-        for i in range(5):
-            print(data[i])
+    return pickle.load(open(f"./{type_}.pickle", 'rb'))
 
 
 if __name__ == '__main__':
     st = timeit.default_timer()
 
-    save_train_data()
+    save_image_data('train')
+    save_image_data('test')
 
-    load_taine_data()
+    load_image_data('train')
+    load_image_data('test')
 
     process_time = (timeit.default_timer() - st)
     if process_time < 100:
