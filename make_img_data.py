@@ -62,14 +62,27 @@ def load_image_data(type_='train'):
     return pickle.load(open(f"./{type_}.pickle", 'rb'))
 
 
+def load_train_data():
+    train_ = load_image_data('train')
+    return [r[0] for r in train_], [r[1] for r in train_]
+
+
+def load_test_data():
+    test_ = load_image_data('test')
+    return [r[0] for r in test_], [r[1] for r in test_]
+
+
 if __name__ == '__main__':
     st = timeit.default_timer()
 
-    save_image_data('train')
-    save_image_data('test')
+    # save_image_data('train')
+    # save_image_data('test')
 
-    load_image_data('train')
-    load_image_data('test')
+    # x_train, y_train = load_train_data()
+    # for i in range(2):
+    #     print(x_train[i], y_train[i])
+
+    # load_image_data('test')
 
     process_time = (timeit.default_timer() - st)
     if process_time < 100:

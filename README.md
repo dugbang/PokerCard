@@ -6,7 +6,6 @@
     1. pip install jupyter
     1. [numpy-1.16.4+mkl-cp37-cp37m-win_amd64.whl](https://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy)
     1. pip install tensorflow
-    1. pip install keras
     1. pip install pillow matplotlib opencv-python
     1. pip install scipy scikit-learn pandas
     1. pip install watermark
