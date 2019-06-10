@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab2dce6-f11f-4e1a-9c3e-a3314758c401" name="Default Changelist" comment="* #768 입력 데이터 생성 및 가공&#10;** train 데이터까지만 처리">
-      <change afterPath="$PROJECT_DIR$/model_learn.py" afterDir="false" />
+    <list default="true" id="fab2dce6-f11f-4e1a-9c3e-a3314758c401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/model_poker_card.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make_img_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/make_img_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/image_edit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/image_edit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/image_invert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/image_invert.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/make_img_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/make_img_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/model_learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/model_learn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/using_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/using_model.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="620">
-                <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <first_editor relative-caret-position="248">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/make_img_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="2759">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -52,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_learn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="1116">
+              <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -91,15 +96,16 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tests/test_crop_card.py" />
         <option value="$PROJECT_DIR$/crop_card.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/make_img_data.py" />
         <option value="$PROJECT_DIR$/network.py" />
         <option value="$PROJECT_DIR$/model_learn.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2158" />
+    <option name="x" value="2157" />
+    <option name="y" value="2" />
     <option name="width" value="1608" />
     <option name="height" value="995" />
   </component>
@@ -133,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -289,7 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560042360369</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="* 모델 학습하기&#10;* 모델 저장하고 사용하기">
+      <created>1560131243422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560131243422</updated>
+    </task>
+    <task id="LOCAL-00006" summary="* 파일추가&#10;** 이전 로그에는 파일 추가 안됨...ㅠ">
+      <created>1560131288170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560131288170</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -325,10 +345,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2158" y="0" width="1608" height="995" extended-state="0" />
+    <frame x="2157" y="2" width="1608" height="995" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20127389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.329849" />
@@ -352,7 +372,9 @@
     <MESSAGE value="* mnist 학습" />
     <MESSAGE value="* #768 입력 데이터 생성 및 가공&#10;** train 데이터까지만 처리" />
     <MESSAGE value="* #768 입력 데이터 생성 및 가공&#10;** test 데이터 처리&#10;** 이미지를 역상하여 저장&#10;** 코드리뷰" />
-    <option name="LAST_COMMIT_MESSAGE" value="* #768 입력 데이터 생성 및 가공&#10;** test 데이터 처리&#10;** 이미지를 역상하여 저장&#10;** 코드리뷰" />
+    <MESSAGE value="* 모델 학습하기&#10;* 모델 저장하고 사용하기" />
+    <MESSAGE value="* 파일추가&#10;** 이전 로그에는 파일 추가 안됨...ㅠ" />
+    <option name="LAST_COMMIT_MESSAGE" value="* 파일추가&#10;** 이전 로그에는 파일 추가 안됨...ㅠ" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebook/image_edit.ipynb">
@@ -368,8 +390,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="620">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <first_editor relative-caret-position="248">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -385,17 +407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_crop_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/make_img_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="2759">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -404,11 +419,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model_learn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        <state relative-caret-position="1116">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_crop_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
