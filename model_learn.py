@@ -26,7 +26,7 @@ def load_test_data():
     return np.array([r[0] for r in test_]), np.array([r[1] for r in test_])
 
 
-def model_process_step01():
+def model_learning():
     x_train, y_train = load_train_data()
     x_test, y_test = load_test_data()
 
@@ -58,14 +58,13 @@ def model_process_step01():
     print('Test accuracy:', score[1])
 
     model.save('model_poker_card.h5')
-
     # model = load_model('mnist_mlp_model.h5')
 
 
 if __name__ == '__main__':
     st = timeit.default_timer()
 
-    model_process_step01()
+    model_learning()
 
     process_time = (timeit.default_timer() - st)
     if process_time < 100:
